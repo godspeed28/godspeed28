@@ -25,9 +25,11 @@
 
 <hr>
 
-[![Spotify](https://https://spotify-github-profile-gamma-dusky.vercel.app//api/spotify)](https://open.spotify.com/user/godspeed)
+[![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed)
 
 <!-- START_QUOTE -->
+
 > Night is a more quiet time to work. It aids thought.
-> — *Alexander Graham Bell*
+> — _Alexander Graham Bell_
+
 <!-- END_QUOTE -->
