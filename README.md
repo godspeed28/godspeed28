@@ -27,6 +27,8 @@
 
 [![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed)
 
+<hr>
+
 <!-- START_QUOTE -->
 
 > Night is a more quiet time to work. It aids thought.
