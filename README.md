@@ -26,6 +26,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Be patient and calm; no one can catch fish in anger.
-> — *Herbert Hoover*
+> The least deviation from truth will be multiplied later.
+> — *Aristotle*
 <!-- END_QUOTE -->
