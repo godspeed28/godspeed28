@@ -27,7 +27,7 @@
 
 <!-- START_QUOTE -->
 
-> This is a placeholder quote.
-> — _Anonymous_
+> Quote sebelumnya
+> — _Penulis_
 
 <!-- END_QUOTE -->

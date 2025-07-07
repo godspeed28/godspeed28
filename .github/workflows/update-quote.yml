@@ -1,12 +1,12 @@
-permissions:
-  contents: write
-
 name: Update Random Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Update setiap hari jam 00:00 UTC
-  workflow_dispatch: # Bisa dijalankan manual juga
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-quote:
@@ -42,5 +42,3 @@ jobs:
           git add README.md
           git commit -m "Update random quote" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
