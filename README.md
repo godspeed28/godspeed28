@@ -26,6 +26,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When you know what you want, and want it bad enough, you will find a way to get it.
-> — *Jim Rohn*
+> When you're at the end of your rope, tie a knot and hold on.
+> — *Theodore Roosevelt*
 <!-- END_QUOTE -->
