@@ -2,8 +2,8 @@ name: Update Random Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Setiap hari jam 00:00 UTC (07:00 WIB)
+  workflow_dispatch: # Bisa dijalankan manual dari GitHub UI
 
 permissions:
   contents: write
@@ -19,9 +19,9 @@ jobs:
       - name: Get Random Quote
         id: fetch-quote
         run: |
-          RESPONSE=$(curl -s "https://api.quotable.io/random")
-          QUOTE=$(echo "$RESPONSE" | jq -r '.content')
-          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
+          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
           echo "QUOTE=$QUOTE" >> $GITHUB_ENV
           echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
 
