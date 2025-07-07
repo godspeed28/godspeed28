@@ -26,6 +26,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The least deviation from truth will be multiplied later.
-> — *Aristotle*
+> Night is a more quiet time to work. It aids thought.
+> — *Alexander Graham Bell*
 <!-- END_QUOTE -->
