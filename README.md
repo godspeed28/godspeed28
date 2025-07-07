@@ -1,8 +1,8 @@
 <!-- Profil Stats -->
-<div align="start">
+<!-- <div align="start">
   <table>
     <!-- Baris Pertama: Stats dan Top Langs -->
-    <tr>
+   <!-- <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="468" />
       </td>
@@ -16,7 +16,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- Visitor Counter -->
 <p align="start">
