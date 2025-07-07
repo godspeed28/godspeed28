@@ -26,6 +26,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When you're at the end of your rope, tie a knot and hold on.
-> — *Theodore Roosevelt*
+> Be patient and calm; no one can catch fish in anger.
+> — *Herbert Hoover*
 <!-- END_QUOTE -->
