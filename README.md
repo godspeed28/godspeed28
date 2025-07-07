@@ -25,6 +25,8 @@
 
 <hr>
 
+[![Spotify](https://https://spotify-github-profile-gamma-dusky.vercel.app//api/spotify)](https://open.spotify.com/user/godspeed)
+
 <!-- START_QUOTE -->
 
 > Quote sebelumnya
