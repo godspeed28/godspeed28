@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Wake up and smile! Wake up and be grateful!
-> — *Steve Harvey*
+> Do not think you will necessarily be aware of your own enlightenment.
+> — *Dogen*
 
-_Last updated: Tue Jul  8 10:20:00 UTC 2025_
+_Last updated: Tue Jul  8 10:42:06 UTC 2025_
 <!-- END_QUOTE -->
