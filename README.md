@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Your success and happiness lie in you.
-> — *Helen Keller*
+> The best way to understanding is a few good examples.
+> — *Isaac Newton*
 
-_Last updated: Tue Jul  8 07:27:44 UTC 2025_
+_Last updated: Tue Jul  8 07:42:33 UTC 2025_
 <!-- END_QUOTE -->
