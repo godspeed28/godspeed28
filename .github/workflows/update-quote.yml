@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/5 * * * *" # Setiap 5 menit (UTC)
+    - cron: "0 0 * * *" # Setiap hari jam 7 pagi WIB (karena 0 UTC = 7 WIB)
   workflow_dispatch:
 
 permissions:
