@@ -13,8 +13,6 @@
   </table>
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&layout=compact&theme=github_dark&hide_border=true) -->
-
 <!-- Visitor Counter -->
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=godspeed28&color=blue" alt="Visitor Count" />
@@ -22,7 +20,12 @@
 
 <hr>
 
-[![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed)
+<p align="start">
+  <a href="https://open.spotify.com/user/godspeed">
+    <img src="https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify" alt="Spotify" height="120"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="120" />
+</p>
 
 <hr>
 
