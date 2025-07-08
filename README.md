@@ -25,8 +25,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-
-> If life were predictable it would cease to be life, and be without flavor.
-> — _Eleanor Roosevelt_
-
+> Words have no power to impress the mind without the exquisite horror of their reality.
+> — *Edgar Allan Poe*
 <!-- END_QUOTE -->
