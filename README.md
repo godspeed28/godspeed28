@@ -22,9 +22,9 @@
 
 <p align="start">
   <a href="https://open.spotify.com/user/godspeed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="85">
     <img src="https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify" alt="Spotify" height="120"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="120" />
 </p>
 
 <hr>
