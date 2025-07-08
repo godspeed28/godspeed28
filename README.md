@@ -25,6 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Words have no power to impress the mind without the exquisite horror of their reality.
-> — *Edgar Allan Poe*
+> In the midst of movement and chaos, keep stillness inside of you.
+> — *Deepak Chopra*
+
+_Last updated: Tue Jul  8 02:40:12 UTC 2025_
 <!-- END_QUOTE -->
