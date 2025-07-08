@@ -25,6 +25,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Your heart is the size of an ocean. Go find yourself in its hidden depths.
-> — *Rumi*
+> If you do not conquer self, you will be conquered by self.
+> — *Napoleon Hill*
 <!-- END_QUOTE -->
