@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> In three words I can sum up everything I've learned about life: it goes on.
-> — *Robert Frost*
+> Your success and happiness lie in you.
+> — *Helen Keller*
 
-_Last updated: Tue Jul  8 07:01:02 UTC 2025_
+_Last updated: Tue Jul  8 07:27:44 UTC 2025_
 <!-- END_QUOTE -->
