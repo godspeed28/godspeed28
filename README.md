@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> Change yourself and you have done your part in changing the world.
+> — *Paramahansa Yogananda*
 
-> "Ini adalah quote awal."
-> — _Penulis_
-
+_Last updated: Tue Jul  8 02:58:56 UTC 2025_
 <!-- END_QUOTE -->
