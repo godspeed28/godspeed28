@@ -1,6 +1,6 @@
 <!-- Profil Stats -->
 <div align="start">
-  <table border=0>
+  <table border="0">
     <!-- Baris Pertama: Stats dan Top Langs -->
    <tr>
       <td>
