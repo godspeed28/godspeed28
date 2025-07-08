@@ -1,11 +1,11 @@
 name: Update Random Quote
+
 on:
   push:
     branches:
       - main
   schedule:
     - cron: "*/5 * * * *" # Setiap 5 menit (UTC)
-  # workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,6 +18,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
       - name: Get Random Quote
         id: fetch-quote
         run: |
@@ -29,7 +32,7 @@ jobs:
 
       - name: Update README.md
         run: |
-          NEW_QUOTE="> $QUOTE\n> — *$AUTHOR*"
+          NEW_QUOTE="> $QUOTE\n> — *$AUTHOR*\n\n_Last updated: $(date -u)_"
           awk -v quote="$NEW_QUOTE" '
             BEGIN { print_quote = 0 }
             /<!-- START_QUOTE -->/ { print; print_quote = 1; print quote; next }
