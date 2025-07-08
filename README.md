@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.
-> — *Sonia Ricotti*
+> Character is doing what you don't want to do but know you should do.
+> — *Joyce Meyer*
 
-_Last updated: Tue Jul  8 05:28:59 UTC 2025_
+_Last updated: Tue Jul  8 05:46:47 UTC 2025_
 <!-- END_QUOTE -->
