@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The only way round is through.
-> — *Robert Frost*
+> People rarely succeed unless they have fun in what they are doing.
+> — *Dale Carnegie*
 
-_Last updated: Tue Jul  8 06:24:01 UTC 2025_
+_Last updated: Tue Jul  8 06:50:16 UTC 2025_
 <!-- END_QUOTE -->
