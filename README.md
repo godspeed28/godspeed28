@@ -25,13 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-<<<<<<< HEAD
+> Great minds are always feared by lesser minds.
+> — *Dan Brown*
 
-> Our deeds determine us, as much as we determine our deeds.
-> — _George Eliot_
-
-_Last updated: Tue Jul 8 09:48:14 UTC 2025_
-
+_Last updated: Tue Jul  8 10:02:59 UTC 2025_
 <!-- END_QUOTE -->
 =======
 > Live, travel, adventure, bless, and don't be sorry.  
