@@ -1,44 +1,48 @@
 name: Update Random Quote
 
 on:
-  schedule:
-    - cron: "*/5 * * * *" # Menjalankan setiap 5 menit (UTC)
-  workflow_dispatch:
+  push:
+    branches: [main]
+    schedule:
+      - cron: "*/5 * * * *" # Menjalankan setiap 5 menit (UTC)
+    workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
   update-quote:
-    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v4
 
-      - name: Get Random Quote
-        id: fetch-quote
-        run: |
-          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
-          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
-          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
-          echo "QUOTE=$QUOTE" >> $GITHUB_ENV
-          echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
+        - name: Get Random Quote
+          id: fetch-quote
+          run: |
+            RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+            QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+            AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+            echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+            echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
 
-      - name: Update README.md
-        run: |
-          NEW_QUOTE="> $QUOTE\n> — *$AUTHOR*"
-          awk -v quote="$NEW_QUOTE" '
-            BEGIN { print_quote = 0 }
-            /<!-- START_QUOTE -->/ { print; print_quote = 1; print quote; next }
-            /<!-- END_QUOTE -->/ { print_quote = 0 }
-            !print_quote { print }
-          ' README.md > temp.md && mv temp.md README.md
+        - name: Update README.md
+          run: |
+            NEW_QUOTE="> $QUOTE\n> — *$AUTHOR*"
+            awk -v quote="$NEW_QUOTE" '
+              BEGIN { print_quote = 0 }
+              /<!-- START_QUOTE -->/ { print; print_quote = 1; print quote; next }
+              /<!-- END_QUOTE -->/ { print_quote = 0 }
+              !print_quote { print }
+            ' README.md > temp.md && mv temp.md README.md
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "godspeed28"
-          git config --global user.email "albertog4taz28@gmail.com"
-          git add README.md
-          git commit -m "Update random quote" || echo "No changes to commit"
-          git push
+        - name: Commit and Push Changes
+          run: |
+            git config --global user.name "godspeed28"
+            git config --global user.email "albertog4taz28@gmail.com"
+            git add README.md
+            git commit -m "Update random quote" || echo "No changes to commit"
+            git push
