@@ -2,8 +2,8 @@ name: Update Random Quote
 
 on:
   schedule:
-    - cron: "*/1 * * * *" # Setiap menit (UTC)
-  workflow_dispatch: # Bisa dijalankan manual dari GitHub UI
+    - cron: "*/5 * * * *" # Menjalankan setiap 5 menit (UTC)
+  workflow_dispatch:
 
 permissions:
   contents: write
