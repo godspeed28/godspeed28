@@ -32,7 +32,7 @@ jobs:
 
       - name: Update README.md
         run: |
-          NEW_QUOTE="> $QUOTE\n> — *$AUTHOR*\n\n_Last updated: $(date -u)_"
+          NEW_QUOTE="> ${{ env.QUOTE }}\n> — *${{ env.AUTHOR }}*\n\n_Last updated: $(date -u)_"
           awk -v quote="$NEW_QUOTE" '
             BEGIN { print_quote = 0 }
             /<!-- START_QUOTE -->/ { print; print_quote = 1; print quote; next }

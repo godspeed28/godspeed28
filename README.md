@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> In the midst of movement and chaos, keep stillness inside of you.
-> — *Deepak Chopra*
 
-_Last updated: Tue Jul  8 02:40:12 UTC 2025_
+> "Ini adalah quote awal."
+> — _Penulis_
+
 <!-- END_QUOTE -->
