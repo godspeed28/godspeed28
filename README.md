@@ -25,10 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+> — *Steve Jobs*
 
-> Our deeds determine us, as much as we determine our deeds.
-> — _George Eliot_
-
-_Last updated: Tue Jul 8 09:48:14 UTC 2025_
-
+_Last updated: Tue Jul  8 10:05:03 UTC 2025_
 <!-- END_QUOTE -->
