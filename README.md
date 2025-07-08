@@ -7,7 +7,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="900" />
       </td>
         <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=godspeed28&theme=dark&hide_border=true" alt="GitHub Streak" width="927" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=godspeed28&theme=github-dark&hide_border=true" alt="GitHub Streak" width="927" />
       </td>
     </tr>
   </table>
@@ -25,6 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+
 > If life were predictable it would cease to be life, and be without flavor.
-> — *Eleanor Roosevelt*
+> — _Eleanor Roosevelt_
+
 <!-- END_QUOTE -->
