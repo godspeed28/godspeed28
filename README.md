@@ -25,8 +25,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-
-> Your heart is the size of an ocean. Go find yourself in its hidden depths.
-> — _Rumi_
-
+> If life were predictable it would cease to be life, and be without flavor.
+> — *Eleanor Roosevelt*
 <!-- END_QUOTE -->
