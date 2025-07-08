@@ -25,6 +25,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-> If you do not conquer self, you will be conquered by self.
-> — *Napoleon Hill*
+> May you find grace as you surrender to life. May you find happiness, as you stop seeking it.
+> — *Dan Millman*
 <!-- END_QUOTE -->
