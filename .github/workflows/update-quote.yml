@@ -2,7 +2,7 @@ name: Update Random Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Setiap hari jam 00:00 UTC (07:00 WIB)
+    - cron: "*/1 * * * *" # Setiap menit (UTC)
   workflow_dispatch: # Bisa dijalankan manual dari GitHub UI
 
 permissions:
