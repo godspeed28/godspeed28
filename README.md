@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.
-> — *Steve Maraboli*
+> If you run you stand a chance of losing, but if you don't run you've already lost.
+> — *Barack Obama*
 
-_Last updated: Tue Jul  8 07:51:23 UTC 2025_
+_Last updated: Tue Jul  8 07:59:53 UTC 2025_
 <!-- END_QUOTE -->
