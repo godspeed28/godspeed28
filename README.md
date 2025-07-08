@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> If you run you stand a chance of losing, but if you don't run you've already lost.
-> — *Barack Obama*
+> A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.
+> — *Jonathan Swift*
 
-_Last updated: Tue Jul  8 07:59:53 UTC 2025_
+_Last updated: Tue Jul  8 08:36:03 UTC 2025_
 <!-- END_QUOTE -->
