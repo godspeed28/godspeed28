@@ -25,7 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-<!-- END_QUOTE -->
 
-<!-- START_WEATHER -->
-<!-- END_WEATHER -->
+> Our deeds determine us, as much as we determine our deeds.
+> — _George Eliot_
+
+_Last updated: Tue Jul 8 09:48:14 UTC 2025_
+
+<!-- END_QUOTE -->
