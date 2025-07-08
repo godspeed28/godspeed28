@@ -25,8 +25,6 @@
 <hr>
 
 <!-- START_QUOTE -->
-
-> Night is a more quiet time to work. It aids thought.
-> — _Alexander Graham Bell_
-
+> Your heart is the size of an ocean. Go find yourself in its hidden depths.
+> — *Rumi*
 <!-- END_QUOTE -->
