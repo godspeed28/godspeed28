@@ -35,10 +35,8 @@ I code with
 <hr>
 
 <!-- START_QUOTE -->
+> Live your life as an exclamation rather than an explanation.
+> — *Isaac Newton*
 
-> Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.
-> — _Thomas Jefferson_
-
-_Last updated: Wed Jul 9 10:49:33 UTC 2025_
-
+_Last updated: Wed Jul  9 10:53:30 UTC 2025_
 <!-- END_QUOTE -->
