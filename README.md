@@ -38,10 +38,17 @@
 <hr>
 
 <!-- START_QUOTE -->
+<<<<<<< HEAD
 
 > It is in your moments of decision that your destiny is shaped.
 > — _Tony Robbins_
 
 _Last updated: Wed Jul 9 21:24:38 UTC 2025_
 
+=======
+> It isn't what you do, but how you do it.
+> — *John Wooden*
+
+_Last updated: Wed Jul  9 21:37:39 UTC 2025_
+>>>>>>> 48bb6d90f8801fe52095d71a0d1371fed4c536d0
 <!-- END_QUOTE -->
