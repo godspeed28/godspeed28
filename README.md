@@ -22,9 +22,9 @@
 
 <p>
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="20" />&nbsp;&nbsp;&nbsp;
-<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="20">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CI4" width="20" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="25" />&nbsp;&nbsp;&nbsp;
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="25">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CI4" width="25" />
 
 </p>
 
@@ -35,8 +35,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Live your life as an exclamation rather than an explanation.
-> — *Isaac Newton*
 
-_Last updated: Wed Jul  9 10:53:30 UTC 2025_
+> Live your life as an exclamation rather than an explanation.
+> — _Isaac Newton_
+
+_Last updated: Wed Jul 9 10:53:30 UTC 2025_
+
 <!-- END_QUOTE -->
