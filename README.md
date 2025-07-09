@@ -36,9 +36,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> The less you try to impress, the more peaceful you can be.
+> — *Maxime Lagace*
 
-> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.
-> — _Charles Dickens_
-> _Last updated: Wed Jul 9 12:09:35 UTC 2025_
-
+_Last updated: Wed Jul  9 12:34:16 UTC 2025_
 <!-- END_QUOTE -->
