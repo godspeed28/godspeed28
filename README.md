@@ -4,10 +4,10 @@
     <!-- Baris Pertama: Stats dan Top Langs -->
    <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=monokai&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
+        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
       </td>
         <td>
-        <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=monokai&hide_border=true&background=0d1117" alt="GitHub Streak" width="927" />
+        <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="927" />
       </td>
     </tr>
 
@@ -36,8 +36,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> To avoid criticism, do nothing, say nothing, and be nothing.
-> — *Elbert Hubbard*
 
-_Last updated: Wed Jul  9 12:46:43 UTC 2025_
+> To avoid criticism, do nothing, say nothing, and be nothing.
+> — _Elbert Hubbard_
+
+_Last updated: Wed Jul 9 12:46:43 UTC 2025_
+
 <!-- END_QUOTE -->
