@@ -4,12 +4,13 @@
     <!-- Baris Pertama: Stats dan Top Langs -->
    <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
+        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
       </td>
         <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=godspeed28&theme=github-dark&hide_border=true" alt="GitHub Streak" width="927" />
+        <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="927" />
       </td>
     </tr>
+
   </table>
 </div>
 
@@ -35,8 +36,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> We will now discuss in a little more detail the Struggle for Existence.
-> — *Charles Darwin*
 
-_Last updated: Wed Jul  9 10:58:34 UTC 2025_
+> We will now discuss in a little more detail the Struggle for Existence.
+> — _Charles Darwin_
+
+_Last updated: Wed Jul 9 10:58:34 UTC 2025_
+
 <!-- END_QUOTE -->
