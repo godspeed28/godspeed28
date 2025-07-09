@@ -38,17 +38,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-<<<<<<< HEAD
+> Fishing is much more than fish.
+> — *Herbert Hoover*
 
-> It isn't what you do, but how you do it.
-> — _John Wooden_
-
-_Last updated: Wed Jul 9 21:37:39 UTC 2025_
-
-=======
-> As a matter of fact is an expression that precedes many an expression that isn't.
-> — *Laurence J. Peter*
-
-_Last updated: Wed Jul  9 21:49:02 UTC 2025_
->>>>>>> 76d6be4959cd148c6de7c313e5b33f2d56885be4
+_Last updated: Wed Jul  9 21:52:23 UTC 2025_
 <!-- END_QUOTE -->
