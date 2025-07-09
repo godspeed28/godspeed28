@@ -37,9 +37,8 @@
 
 <!-- START_QUOTE -->
 
-> We will now discuss in a little more detail the Struggle for Existence.
-> — _Charles Darwin_
-
-_Last updated: Wed Jul 9 10:58:34 UTC 2025_
+> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.
+> — _Charles Dickens_
+> _Last updated: Wed Jul 9 12:09:35 UTC 2025_
 
 <!-- END_QUOTE -->
