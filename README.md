@@ -39,10 +39,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> It is in your moments of decision that your destiny is shaped.
+> — *Tony Robbins*
 
-> To avoid criticism, do nothing, say nothing, and be nothing.
-> — _Elbert Hubbard_
-
-_Last updated: Wed Jul 9 12:46:43 UTC 2025_
-
+_Last updated: Wed Jul  9 21:24:38 UTC 2025_
 <!-- END_QUOTE -->
