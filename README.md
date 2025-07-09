@@ -36,8 +36,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
-> — *Les Brown*
+> The first principle of success is desire.
+> — *Robert Collier*
 
-_Last updated: Wed Jul  9 12:36:07 UTC 2025_
+_Last updated: Wed Jul  9 12:40:05 UTC 2025_
 <!-- END_QUOTE -->
