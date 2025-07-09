@@ -17,6 +17,16 @@
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=godspeed28&color=blue" alt="Visitor Count" />
 </p>
+I code with
+<hr>
+
+<p>
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="30">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CI4" width="30" />
+
+</p>
 
 <hr>
 
@@ -25,8 +35,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Wake up and smile! Wake up and be grateful!
-> — *Steve Harvey*
 
-_Last updated: Tue Jul  8 10:20:00 UTC 2025_
+> Wake up and smile! Wake up and be grateful!
+> — _Steve Harvey_
+
+_Last updated: Tue Jul 8 10:20:00 UTC 2025_
+
 <!-- END_QUOTE -->
