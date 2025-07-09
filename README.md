@@ -36,10 +36,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> When the world pushes you to your knees, you're in the perfect position to pray.
+> — *Rumi*
 
-> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
-> — _Les Brown_
-
-_Last updated: Wed Jul 9 12:36:07 UTC 2025_
-
+_Last updated: Wed Jul  9 12:43:42 UTC 2025_
 <!-- END_QUOTE -->
