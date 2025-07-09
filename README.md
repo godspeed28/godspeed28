@@ -3,12 +3,11 @@
   <table border="0">
   <tr>
   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
+     <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
   </td>
   <td>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="1060" />
+      <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
   </td>
-    
 </tr>
   </table>
 </div>
@@ -32,3 +31,7 @@
 _Last updated: Wed Jul 9 21:37:39 UTC 2025_
 
 <!-- END_QUOTE -->
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
