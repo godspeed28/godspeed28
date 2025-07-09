@@ -36,8 +36,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> To avoid criticism, do nothing, say nothing, and be nothing.
-> — *Elbert Hubbard*
+> There is only the one reality, neither to be realized nor attained.
+> — *Huang Po*
 
-_Last updated: Wed Jul  9 12:46:43 UTC 2025_
+_Last updated: Wed Jul  9 21:14:27 UTC 2025_
 <!-- END_QUOTE -->
