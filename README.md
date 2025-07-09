@@ -2,16 +2,16 @@
 <div align="start">
   <table border="0">
     <!-- Baris Pertama: Stats dan Top Langs -->
-   <tr>
+   <!-- <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=monokai&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </td>
         <td>
         <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=monokai&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
       </td>
-    </tr>
+    </tr> -->
     <tr>
-  <td colspan="2">
+  <td>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=monokai&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
   </td>
 </tr>
@@ -38,17 +38,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-<<<<<<< HEAD
 
-> It is in your moments of decision that your destiny is shaped.
-> — _Tony Robbins_
-
-_Last updated: Wed Jul 9 21:24:38 UTC 2025_
-
-=======
 > It isn't what you do, but how you do it.
-> — *John Wooden*
+> — _John Wooden_
 
-_Last updated: Wed Jul  9 21:37:39 UTC 2025_
->>>>>>> 48bb6d90f8801fe52095d71a0d1371fed4c536d0
+_Last updated: Wed Jul 9 21:37:39 UTC 2025_
+
 <!-- END_QUOTE -->
