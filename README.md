@@ -21,6 +21,8 @@
 
 ### I code with
 
+---
+
 <p>
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="25" />&nbsp;&nbsp;&nbsp;
