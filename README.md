@@ -17,8 +17,8 @@
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=godspeed28&color=blue" alt="Visitor Count" />
 </p>
-I code with
-<hr>
+
+## I code with
 
 <p>
 
