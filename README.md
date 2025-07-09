@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=godspeed28&color=blue" alt="Visitor Count" />
 </p>
 
-## I code with
+### I code with
 
 <p>
 
@@ -36,8 +36,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
-> — *Les Brown*
 
-_Last updated: Wed Jul  9 12:36:07 UTC 2025_
+> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
+> — _Les Brown_
+
+_Last updated: Wed Jul 9 12:36:07 UTC 2025_
+
 <!-- END_QUOTE -->
