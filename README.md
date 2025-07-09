@@ -38,8 +38,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When the world pushes you to your knees, you're in the perfect position to pray.
-> — *Rumi*
+> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.
+> — *Robert Collier*
 
-_Last updated: Wed Jul  9 12:43:42 UTC 2025_
+_Last updated: Wed Jul  9 12:45:15 UTC 2025_
 <!-- END_QUOTE -->
