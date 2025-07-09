@@ -22,9 +22,9 @@ I code with
 
 <p>
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="30">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CI4" width="30" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Logo" width="20" />&nbsp;&nbsp;&nbsp;
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="20">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CI4" width="20" />
 
 </p>
 
@@ -35,17 +35,10 @@ I code with
 <hr>
 
 <!-- START_QUOTE -->
-<<<<<<< HEAD
 
-> Wake up and smile! Wake up and be grateful!
-> — _Steve Harvey_
-
-_Last updated: Tue Jul 8 10:20:00 UTC 2025_
-
-=======
 > If fear is too strong, the genius is suppressed.
-> — *Robert Kiyosaki*
+> — _Robert Kiyosaki_
 
-_Last updated: Wed Jul  9 00:53:58 UTC 2025_
->>>>>>> 0551dd8e75e663ba058ec97d905394ca08a68ae8
+_Last updated: Wed Jul 9 00:53:58 UTC 2025_
+
 <!-- END_QUOTE -->
