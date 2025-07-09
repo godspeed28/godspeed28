@@ -36,10 +36,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> To avoid criticism, do nothing, say nothing, and be nothing.
+> — *Elbert Hubbard*
 
-> Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
-> — _Les Brown_
-
-_Last updated: Wed Jul 9 12:36:07 UTC 2025_
-
+_Last updated: Wed Jul  9 12:46:43 UTC 2025_
 <!-- END_QUOTE -->
