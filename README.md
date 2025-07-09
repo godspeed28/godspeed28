@@ -25,8 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Do not think you will necessarily be aware of your own enlightenment.
-> — *Dogen*
+> If fear is too strong, the genius is suppressed.
+> — *Robert Kiyosaki*
 
-_Last updated: Tue Jul  8 10:42:06 UTC 2025_
+_Last updated: Wed Jul  9 00:53:58 UTC 2025_
 <!-- END_QUOTE -->
