@@ -25,17 +25,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-<<<<<<< HEAD
+> No great mind has ever existed without a touch of madness.
+> — *Aristotle*
 
-> It isn't what you do, but how you do it.
-> — _John Wooden_
-
-_Last updated: Wed Jul 9 21:37:39 UTC 2025_
-
-=======
-> Fishing is much more than fish.
-> — *Herbert Hoover*
-
-_Last updated: Wed Jul  9 21:52:23 UTC 2025_
->>>>>>> c403e2f75c034248684e8e01287669f35f5ffaf2
+_Last updated: Wed Jul  9 22:05:57 UTC 2025_
 <!-- END_QUOTE -->
