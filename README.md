@@ -4,7 +4,7 @@
     <!-- Baris Pertama: Stats dan Top Langs -->
    <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
+        <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="900" />
       </td>
         <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=godspeed28&theme=github-dark&hide_border=true" alt="GitHub Streak" width="927" />
