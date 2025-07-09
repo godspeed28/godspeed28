@@ -35,8 +35,8 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Live your life as an exclamation rather than an explanation.
-> — *Isaac Newton*
+> Success is good at any age, but the sooner you find it, the longer you will enjoy it.
+> — *Napoleon Hill*
 
-_Last updated: Wed Jul  9 10:53:30 UTC 2025_
+_Last updated: Wed Jul  9 10:56:45 UTC 2025_
 <!-- END_QUOTE -->
