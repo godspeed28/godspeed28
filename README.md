@@ -35,10 +35,8 @@
 <hr>
 
 <!-- START_QUOTE -->
+> We will now discuss in a little more detail the Struggle for Existence.
+> — *Charles Darwin*
 
-> Success is good at any age, but the sooner you find it, the longer you will enjoy it.
-> — _Napoleon Hill_
-
-_Last updated: Wed Jul 9 10:56:45 UTC 2025_
-
+_Last updated: Wed Jul  9 10:58:34 UTC 2025_
 <!-- END_QUOTE -->
