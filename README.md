@@ -6,7 +6,9 @@
      <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
   </td>
   <td>
-      <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
+      <!-- <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" /> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&hide_border=true&layout=compact&theme=vue-dark&bg_color=0d1117" width="350px"/>
+
   </td>
 </tr>
   </table>
