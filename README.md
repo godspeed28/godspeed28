@@ -25,12 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> — *Lao Tzu*
 
-> Everything is created twice, first in the mind and then in reality.
-> — _Robin Sharma_
-
-_Last updated: Thu Jul 10 20:01:32 UTC 2025_
-
+_Last updated: Thu Jul 10 20:38:25 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
