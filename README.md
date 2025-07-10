@@ -8,7 +8,6 @@
   <td>
       <!-- <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&hide_border=true&layout=compact&theme=vue-dark&bg_color=0d1117" width="350px"/>
-
   </td>
 </tr>
   </table>
@@ -26,10 +25,12 @@
 <hr>
 
 <!-- START_QUOTE -->
+
 > Everything is created twice, first in the mind and then in reality.
-> — *Robin Sharma*
+> — _Robin Sharma_
 
 _Last updated: Thu Jul 10 20:01:32 UTC 2025_
+
 <!-- END_QUOTE -->
 
 <hr>
