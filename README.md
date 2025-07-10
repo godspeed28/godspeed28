@@ -25,10 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
-> — *Lao Tzu*
+> The only place where success comes before work is in the dictionary.
+> — *Vidal Sassoon*
 
-_Last updated: Thu Jul 10 20:38:25 UTC 2025_
+_Last updated: Thu Jul 10 23:33:25 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
