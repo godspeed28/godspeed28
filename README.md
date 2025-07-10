@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
-> — *Wayne Gretzky*
+> Consider the rights of others before your own feelings, and the feelings of others before your own rights.
+> — *John Wooden*
 
-_Last updated: Wed Jul  9 22:13:27 UTC 2025_
+_Last updated: Thu Jul 10 00:53:32 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
