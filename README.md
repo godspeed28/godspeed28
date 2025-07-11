@@ -25,10 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The only place where success comes before work is in the dictionary.
-> — *Vidal Sassoon*
+> A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.
+> — *James Allen*
 
-_Last updated: Thu Jul 10 23:33:25 UTC 2025_
+_Last updated: Fri Jul 11 00:54:18 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
