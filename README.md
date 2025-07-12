@@ -25,10 +25,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.
-> — *James Allen*
+> Logic is like the sword - those who appeal to it shall perish by it.
+> — *Samuel Butler*
 
-_Last updated: Fri Jul 11 00:54:18 UTC 2025_
+_Last updated: Sat Jul 12 00:55:27 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
