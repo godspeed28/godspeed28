@@ -1,0 +1,37 @@
+<!-- Profil Stats -->
+<div align="start">
+  <table border="0">
+  <tr>
+  <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=godspeed28&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&cache_seconds=1" />
+  </td>
+  <td>
+      <img src="https://streak-stats.demolab.com/?user=godspeed28&theme=vue-dark&hide_border=true&background=0d1117&cache_seconds=1" alt="GitHub Streak" width="100%" />
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed28&hide_border=true&layout=compact&theme=vue-dark&bg_color=0d1117" width="350px"/> -->
+  </td>
+</tr>
+  </table>
+</div>
+
+<!-- Visitor Counter -->
+
+![Visitor Count](https://img.shields.io/badge/Visitors-Count-42b883?style=flat&logo=vue.js&logoColor=white)
+
+<hr>
+
+[![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed)
+
+<hr>
+
+<!-- START_QUOTE -->
+
+> The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.
+> — _Charles Dickens_
+
+_Last updated: Thu Jul 17 01:41:19 UTC 2025_
+
+<!-- END_QUOTE -->
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=vue&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
