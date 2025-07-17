@@ -15,7 +15,7 @@
 
 <!-- Visitor Counter -->
 
-![Visitor Count](https://img.shields.io/badge/Visitors-Count-42b883?style=flat&logo=vue.js&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=godspeed28&color=42b883&style=flat)
 
 <hr>
 
