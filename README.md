@@ -30,6 +30,6 @@
 _Last updated: Sun Jul 27 08:18:30 UTC 2025_
 <!-- END_QUOTE -->
 
-<hr>
+<!-- <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
