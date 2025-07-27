@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Living life in style also means living a life of balance.
-> — *Jim Rohn*
+> An un-examined life is not worth living.
+> — *Socrates*
 
-_Last updated: Sun Jul 27 08:18:30 UTC 2025_
+_Last updated: Sun Jul 27 08:23:29 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
