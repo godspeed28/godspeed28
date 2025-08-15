@@ -1,0 +1,50 @@
+name: Update Random Quote
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Setiap hari jam 7 pagi WIB (karena 0 UTC = 7 WIB)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Get Random Quote
+        id: fetch-quote
+        run: |
+          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+          echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+          echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          NEW_QUOTE="> ${{ env.QUOTE }}\n> — *${{ env.AUTHOR }}*\n\n_Last updated: $(date -u)_"
+          awk -v quote="$NEW_QUOTE" '
+            BEGIN { print_quote = 0 }
+            /<!-- START_QUOTE -->/ { print; print_quote = 1; print quote; next }
+            /<!-- END_QUOTE -->/ { print_quote = 0 }
+            !print_quote { print }
+          ' README.md > temp.md && mv temp.md README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update random quote" || echo "No changes to commit"
+          git push
