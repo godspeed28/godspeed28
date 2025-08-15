@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.
-> — *Alfred Adler*
+> In the end, it's not the years in your life that count. It's the life in your years.
+> — *Abraham Lincoln*
 
-_Last updated: Fri Aug 15 06:43:15 UTC 2025_
+_Last updated: Fri Aug 15 06:59:42 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
