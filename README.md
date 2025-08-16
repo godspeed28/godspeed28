@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> In the end, it's not the years in your life that count. It's the life in your years.
-> — *Abraham Lincoln*
+> You have a brain and mind of your own. Use it, and reach your own decisions.
+> — *Napoleon Hill*
 
-_Last updated: Fri Aug 15 06:59:42 UTC 2025_
+_Last updated: Sat Aug 16 00:39:33 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
