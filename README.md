@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> If you build the guts to do something, anything, then you better save enough to face the consequences.
-> — *Criss Jami*
+> Working hard for something we don't care about is called stress: Working hard for something we love is called passion.
+> — *Simon Sinek*
 
-_Last updated: Thu Aug 21 00:38:00 UTC 2025_
+_Last updated: Fri Aug 22 00:39:07 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
