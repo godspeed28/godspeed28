@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Give a girl the right shoes, and she can conquer the world.
-> — *Bette Midler*
+> Don't learn to do, but learn in doing.
+> — *Samuel Butler*
 
-_Last updated: Sat Aug 23 00:37:46 UTC 2025_
+_Last updated: Sun Aug 24 00:44:00 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
