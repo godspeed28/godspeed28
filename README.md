@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Don't learn to do, but learn in doing.
-> — *Samuel Butler*
+> Don't let the fear of losing be greater than the excitement of winning.
+> — *Robert Kiyosaki*
 
-_Last updated: Sun Aug 24 00:44:00 UTC 2025_
+_Last updated: Mon Aug 25 00:41:31 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
