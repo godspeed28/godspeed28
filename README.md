@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> One of the keys to happiness is a bad memory.
-> — *Rita Mae Brown*
+> Without education, we are in a horrible and deadly danger of taking educated people seriously.
+> — *Gilbert Chesterton*
 
-_Last updated: Tue Aug 26 00:39:23 UTC 2025_
+_Last updated: Wed Aug 27 00:38:43 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
