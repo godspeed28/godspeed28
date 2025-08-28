@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Without education, we are in a horrible and deadly danger of taking educated people seriously.
-> — *Gilbert Chesterton*
+> Quality is not an act, it is a habit.
+> — *Aristotle*
 
-_Last updated: Wed Aug 27 00:38:43 UTC 2025_
+_Last updated: Thu Aug 28 00:38:13 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
