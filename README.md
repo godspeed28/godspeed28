@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.
-> — *John Lennon*
+> Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.
+> — *Morihei Ueshiba*
 
-_Last updated: Mon Sep  1 00:47:49 UTC 2025_
+_Last updated: Tue Sep  2 00:38:39 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
