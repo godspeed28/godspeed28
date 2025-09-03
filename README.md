@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.
-> — *Morihei Ueshiba*
+> It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.
+> — *Nicolas Chamfort*
 
-_Last updated: Tue Sep  2 00:38:39 UTC 2025_
+_Last updated: Wed Sep  3 00:36:14 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
