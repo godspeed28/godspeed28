@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Be kind, for everyone you meet is fighting a harder battle.
-> — *Plato*
+> He who hesitates is a damned fool.
+> — *Mae West*
 
-_Last updated: Thu Sep  4 00:36:54 UTC 2025_
+_Last updated: Fri Sep  5 00:37:40 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
