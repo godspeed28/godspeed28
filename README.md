@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Act as if what you do makes a difference. It does.
-> — *William James*
+> Give more than you think you can, trusting that you are richer than you think.
+> — *Jon Kabat-Zinn*
 
-_Last updated: Mon Sep  8 00:40:21 UTC 2025_
+_Last updated: Tue Sep  9 00:38:04 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
