@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Give more than you think you can, trusting that you are richer than you think.
-> — *Jon Kabat-Zinn*
+> You can't build a reputation on what you are going to do. 
+> — *Henry Ford*
 
-_Last updated: Tue Sep  9 00:38:04 UTC 2025_
+_Last updated: Wed Sep 10 00:37:21 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
