@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You can't build a reputation on what you are going to do. 
-> — *Henry Ford*
+> Selfishness and greed, individual or national, cause most of our troubles.
+> — *Harry S. Truman*
 
-_Last updated: Wed Sep 10 00:37:21 UTC 2025_
+_Last updated: Thu Sep 11 00:37:55 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
