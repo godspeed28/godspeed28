@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Selfishness and greed, individual or national, cause most of our troubles.
-> — *Harry S. Truman*
+> It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.
+> — *Albus Dumbledore*
 
-_Last updated: Thu Sep 11 00:37:55 UTC 2025_
+_Last updated: Fri Sep 12 00:37:03 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
