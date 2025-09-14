@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> He who laughs at himself never runs out of things to laugh at.
-> — *Epictetus*
+> Just because something isn't a lie does not mean that it isn't deceptive.
+> — *Criss Jami*
 
-_Last updated: Sat Sep 13 00:34:28 UTC 2025_
+_Last updated: Sun Sep 14 00:40:29 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
