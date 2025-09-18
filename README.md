@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> There is no way to happiness - happiness is the way.
-> — *Thich Nhat Hanh*
+> You have to give up some of the old so that you can make room for the new.
+> — *Yanni*
 
-_Last updated: Wed Sep 17 00:37:18 UTC 2025_
+_Last updated: Thu Sep 18 00:36:28 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
