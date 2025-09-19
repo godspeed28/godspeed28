@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You have to give up some of the old so that you can make room for the new.
-> — *Yanni*
+> Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.
+> — *Carlos Ruiz Zafon*
 
-_Last updated: Thu Sep 18 00:36:28 UTC 2025_
+_Last updated: Fri Sep 19 00:37:58 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
