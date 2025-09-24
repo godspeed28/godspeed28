@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> To bear trials with a calm mind robs misfortune of its strength and burden.
-> — *Seneca*
+> I live by letting things happen.
+> — *Dogen*
 
-_Last updated: Tue Sep 23 00:37:15 UTC 2025_
+_Last updated: Wed Sep 24 00:38:03 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
