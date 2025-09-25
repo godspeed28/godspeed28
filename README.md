@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> I live by letting things happen.
-> — *Dogen*
+> Less is more.
+> — *Robert Browning*
 
-_Last updated: Wed Sep 24 00:38:03 UTC 2025_
+_Last updated: Thu Sep 25 00:37:52 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
