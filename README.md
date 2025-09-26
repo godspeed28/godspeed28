@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Less is more.
-> — *Robert Browning*
+> Let each man exercise the art he knows.
+> — *Aristophanes*
 
-_Last updated: Thu Sep 25 00:37:52 UTC 2025_
+_Last updated: Fri Sep 26 00:37:16 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
