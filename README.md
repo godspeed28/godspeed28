@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Let each man exercise the art he knows.
-> — *Aristophanes*
+> Life begins where fear ends.
+> — *Osho*
 
-_Last updated: Fri Sep 26 00:37:16 UTC 2025_
+_Last updated: Sat Sep 27 00:36:10 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
