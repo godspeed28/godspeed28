@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.
-> — *William Faulkner*
+> You can do two things at once, but you can't focus effectively on two things at once.
+> — *Gary Keller*
 
-_Last updated: Tue Sep 30 00:38:07 UTC 2025_
+_Last updated: Wed Oct  1 00:43:29 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
