@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You can do two things at once, but you can't focus effectively on two things at once.
-> — *Gary Keller*
+> In life you need either inspiration or desperation.
+> — *Tony Robbins*
 
-_Last updated: Wed Oct  1 00:43:29 UTC 2025_
+_Last updated: Thu Oct  2 00:36:39 UTC 2025_
 <!-- END_QUOTE -->
 
 <!-- <hr>
