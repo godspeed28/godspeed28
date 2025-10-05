@@ -56,8 +56,10 @@ _Last updated: Sun Oct  5 15:01:11 UTC 2025_
 <!-- Gruvbox -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=gruvbox&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<!-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) -->
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
