@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Every blessing ignored becomes a curse.
-> — *Paulo Coelho*
+> Nothing is hopeless; we must hope for everything.
+> — *Euripides*
 
-_Last updated: Sun Oct  5 14:57:11 UTC 2025_
+_Last updated: Sun Oct  5 15:01:11 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
