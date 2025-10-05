@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Successful people appreciate where they have come from, but they don't let their past set the tone for their future.
-> — *Steve Harvey*
+> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.
+> — *Tony Robbins*
 
-_Last updated: Sun Oct  5 15:02:05 UTC 2025_
+_Last updated: Sun Oct  5 18:53:56 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
