@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Hope is a waking dream.
-> — *Aristotle*
+> You are the only real obstacle in your path to a fulfilling life.
+> — *Les Brown*
 
-_Last updated: Sun Oct  5 18:55:27 UTC 2025_
+_Last updated: Sun Oct  5 18:56:27 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
