@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Hope is a waking dream.
-> — *Aristotle*
+> Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.
+> — *Peter Drucker*
 
-_Last updated: Sun Oct  5 18:55:27 UTC 2025_
+_Last updated: Sun Oct  5 18:58:10 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
