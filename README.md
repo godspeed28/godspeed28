@@ -30,6 +30,41 @@
 _Last updated: Sun Oct  5 00:41:35 UTC 2025_
 <!-- END_QUOTE -->
 
-<!-- <hr>
+<hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+<!-- React -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Dracula -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=dracula&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Blue -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=blue&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Green -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=green&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Github Classic -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=github&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Radical -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=radical&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+<!-- Merko -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=merko&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<!-- Gruvbox -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=gruvbox&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
