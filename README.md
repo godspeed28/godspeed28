@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Hope is a waking dream.
-> — *Aristotle*
+> Life is much more successfully looked at from a single window.
+> — *F. Scott Fitzgerald*
 
-_Last updated: Sun Oct  5 18:55:27 UTC 2025_
+_Last updated: Fri Oct 10 00:38:02 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
