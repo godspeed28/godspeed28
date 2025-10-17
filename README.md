@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You get in life what you have the courage to ask for.
-> — *Oprah Winfrey*
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> — *John Wooden*
 
-_Last updated: Thu Oct 16 00:39:02 UTC 2025_
+_Last updated: Fri Oct 17 00:38:31 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
