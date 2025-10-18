@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
-> — *John Wooden*
+> None but ourselves can free our minds.
+> — *Bob Marley*
 
-_Last updated: Fri Oct 17 00:38:31 UTC 2025_
+_Last updated: Sat Oct 18 00:35:55 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
