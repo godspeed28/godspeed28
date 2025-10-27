@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Walking with a friend in the dark is better than walking alone in the light.
-> — *Helen Keller*
+> Don't explain your philosophy. Embody it.
+> — *Epictetus*
 
-_Last updated: Sun Oct 26 00:42:12 UTC 2025_
+_Last updated: Mon Oct 27 00:43:32 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
