@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Numbing the pain for a while will only make it worse when you finally feel it.
-> — *Albus Dumbledore*
+> Circumstances rule men; men do not rule circumstances. 
+> — *Herodotus*
 
-_Last updated: Mon Nov 10 00:43:10 UTC 2025_
+_Last updated: Tue Nov 11 00:41:20 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
