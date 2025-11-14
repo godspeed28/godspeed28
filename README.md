@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Engage in those actions and thoughts that nurture the good qualities you want to have.
-> — *Paramahansa Yogananda*
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
+> — *Voltaire*
 
-_Last updated: Thu Nov 13 00:40:49 UTC 2025_
+_Last updated: Fri Nov 14 00:41:06 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
