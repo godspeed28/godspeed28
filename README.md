@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Work as though you would live forever, and live as though you would die today. Go another mile.
-> — *Og Mandino*
+> Words are the clothes thoughts wear.
+> — *Samuel Beckett*
 
-_Last updated: Sun Nov 16 00:44:07 UTC 2025_
+_Last updated: Mon Nov 17 00:42:38 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
