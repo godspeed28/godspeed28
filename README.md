@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Words are the clothes thoughts wear.
-> — *Samuel Beckett*
+> Peace is letting it be. Letting life flow, letting emotions flow through you.
+> — *Kamal Ravikant*
 
-_Last updated: Mon Nov 17 00:42:38 UTC 2025_
+_Last updated: Tue Nov 18 00:40:43 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
