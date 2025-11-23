@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Don't be afraid to see what you see.
-> — *Ronald Reagan*
+> Awakening is possible only for those who seek it and want it.
+> — *G.I. Gurdjieff*
 
-_Last updated: Sat Nov 22 00:38:59 UTC 2025_
+_Last updated: Sun Nov 23 00:46:46 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
