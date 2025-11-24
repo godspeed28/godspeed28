@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Awakening is possible only for those who seek it and want it.
-> — *G.I. Gurdjieff*
+> If it's not broken, tinker with it till you find out how it works.
+> — *Bob Proctor*
 
-_Last updated: Sun Nov 23 00:46:46 UTC 2025_
+_Last updated: Mon Nov 24 00:44:06 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
