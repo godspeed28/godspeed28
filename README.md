@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Every one of us is the sum total of his own thoughts.
-> — *Earl Nightingale*
+> You have power over your mind - not outside events. Realize this, and you will find strength.
+> — *Marcus Aurelius*
 
-_Last updated: Thu Nov 27 00:40:32 UTC 2025_
+_Last updated: Fri Nov 28 00:39:36 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
