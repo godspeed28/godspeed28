@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You have power over your mind - not outside events. Realize this, and you will find strength.
-> — *Marcus Aurelius*
+> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
+> — *Dan Millman*
 
-_Last updated: Fri Nov 28 00:39:36 UTC 2025_
+_Last updated: Sat Nov 29 00:39:29 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
