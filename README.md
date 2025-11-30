@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.
-> — *Dan Millman*
+> Even if you persuade me, you won't persuade me.
+> — *Aristophanes*
 
-_Last updated: Sat Nov 29 00:39:29 UTC 2025_
+_Last updated: Sun Nov 30 00:46:35 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
