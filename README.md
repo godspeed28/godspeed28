@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.
-> — *Norman Vincent Peale*
+> We're responsible for everything that happens to us.
+> — *Yanni*
 
-_Last updated: Wed Dec  3 00:41:21 UTC 2025_
+_Last updated: Thu Dec  4 00:41:39 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
