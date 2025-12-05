@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> We're responsible for everything that happens to us.
-> — *Yanni*
+> The few who do are the envy of the many who only watch.
+> — *Jim Rohn*
 
-_Last updated: Thu Dec  4 00:41:39 UTC 2025_
+_Last updated: Fri Dec  5 00:42:35 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
