@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When the world pushes you to your knees, you're in the perfect position to pray.
-> — *Rumi*
+> We are born from a quiet sleep, and we die to a calm awakening
+> — *Zhuangzi*
 
-_Last updated: Wed Dec 10 00:43:28 UTC 2025_
+_Last updated: Thu Dec 11 00:44:00 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
