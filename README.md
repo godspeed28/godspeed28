@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> We are born from a quiet sleep, and we die to a calm awakening
-> — *Zhuangzi*
+> Always be a first-rate version of yourself, instead of a second-rate version of someone else.
+> — *Judy Garland*
 
-_Last updated: Thu Dec 11 00:44:00 UTC 2025_
+_Last updated: Fri Dec 12 00:43:19 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
