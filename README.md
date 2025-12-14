@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Fool me once, shame on you; fool me twice, shame on me. 
-> — *Chinese Proverb*
+> Work harder on yourself than you do on your job.
+> — *Jim Rohn*
 
-_Last updated: Sat Dec 13 00:40:30 UTC 2025_
+_Last updated: Sun Dec 14 00:47:06 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
