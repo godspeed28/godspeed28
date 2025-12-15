@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Work harder on yourself than you do on your job.
-> — *Jim Rohn*
+> You don't earn loyalty in a day. You earn loyalty day-by-day.
+> — *Jeffrey Gitomer*
 
-_Last updated: Sun Dec 14 00:47:06 UTC 2025_
+_Last updated: Mon Dec 15 00:45:37 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
