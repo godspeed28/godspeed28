@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Adventure is worthwhile in itself.
-> — *Amelia Earhart*
+> Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.
+> — *Robert Greene*
 
-_Last updated: Tue Dec 16 00:43:35 UTC 2025_
+_Last updated: Wed Dec 17 00:40:36 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
