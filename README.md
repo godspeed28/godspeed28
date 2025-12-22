@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Reading should be a pleasure, not a chore.
-> — *Joan Rivers*
+> Many roads lead to the path, but basically there are only two: reason and practice. 
+> — *Bodhidharma*
 
-_Last updated: Sun Dec 21 00:46:40 UTC 2025_
+_Last updated: Mon Dec 22 00:45:45 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
