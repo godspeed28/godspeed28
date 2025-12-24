@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Nothing is impossible. The word itself says 'I'm possible!'
-> — *Audrey Hepburn*
+> The goal is not to show how great you are to others, but how vulnerable you are to yourself.
+> — *Maxime Lagace*
 
-_Last updated: Tue Dec 23 00:43:07 UTC 2025_
+_Last updated: Wed Dec 24 00:43:36 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
