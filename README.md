@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The goal is not to show how great you are to others, but how vulnerable you are to yourself.
-> — *Maxime Lagace*
+> Our truest life is when we are in dreams awake.
+> — *Henry David Thoreau*
 
-_Last updated: Wed Dec 24 00:43:36 UTC 2025_
+_Last updated: Thu Dec 25 00:43:08 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
