@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Life itself is the most wonderful fairy tale.
-> — *Hans Christian Andersen*
+> Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.
+> — *Maxime Lagace*
 
-_Last updated: Mon Dec 29 00:48:41 UTC 2025_
+_Last updated: Tue Dec 30 00:43:21 UTC 2025_
 <!-- END_QUOTE -->
 
 <hr>
