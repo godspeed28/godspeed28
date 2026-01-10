@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.
-> — *James Allen*
+> You can live a whole life time never being awake.
+> — *Dan Millman*
 
-_Last updated: Fri Jan  9 00:44:19 UTC 2026_
+_Last updated: Sat Jan 10 00:43:35 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
