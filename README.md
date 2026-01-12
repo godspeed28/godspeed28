@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
-> — *Zig Ziglar*
+> Care about what other people think and you will always be their prisoner.
+> — *Lao Tzu*
 
-_Last updated: Sun Jan 11 00:50:29 UTC 2026_
+_Last updated: Mon Jan 12 00:47:32 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
