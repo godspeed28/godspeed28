@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Love doesn't need reason. It speaks from the irrational wisdom of the heart.
-> — *Deepak Chopra*
+> Care about what other people think and you will always be their prisoner.
+> — *Lao Tzu*
 
-_Last updated: Wed Jan 28 00:45:12 UTC 2026_
+_Last updated: Thu Jan 29 00:53:49 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
