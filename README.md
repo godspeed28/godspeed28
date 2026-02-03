@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. 
-> — *Nikola Tesla*
+> Know yourself and you will win all battles.
+> — *Sun Tzu*
 
-_Last updated: Mon Feb  2 00:57:34 UTC 2026_
+_Last updated: Tue Feb  3 00:57:45 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
