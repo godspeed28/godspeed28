@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Opportunities multiply as they are seized.
-> — *Sun Tzu*
+> First say to yourself what you would be; and then do what you have to do.
+> — *Epictetus*
 
-_Last updated: Thu Mar  5 00:56:50 UTC 2026_
+_Last updated: Fri Mar  6 01:01:14 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
