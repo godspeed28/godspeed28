@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> First say to yourself what you would be; and then do what you have to do.
-> — *Epictetus*
+> If you can't imagine it, you can't have it.
+> — *Toni Morrison*
 
-_Last updated: Fri Mar  6 01:01:14 UTC 2026_
+_Last updated: Sat Mar  7 00:52:45 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
