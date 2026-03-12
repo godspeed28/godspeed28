@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Create each day anew.
-> — *Morihei Ueshiba*
+> Here and now...breathe and relax...in battle and in life.
+> — *Dan Millman*
 
-_Last updated: Wed Mar 11 00:53:10 UTC 2026_
+_Last updated: Thu Mar 12 00:49:13 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
