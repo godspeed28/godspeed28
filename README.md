@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.
-> — *Brian Tracy*
+> Until we can manage time, we can manage nothing else.
+> — *Peter Drucker*
 
-_Last updated: Fri Mar 13 00:55:35 UTC 2026_
+_Last updated: Sat Mar 14 00:54:28 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
