@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Until we can manage time, we can manage nothing else.
-> — *Peter Drucker*
+> Perplexity is the beginning of knowledge.
+> — *Kahlil Gibran*
 
-_Last updated: Sat Mar 14 00:54:28 UTC 2026_
+_Last updated: Sun Mar 15 01:04:54 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
