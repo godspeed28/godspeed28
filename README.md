@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When you want something in life, you just gotta reach out and grab it.
-> — *Christopher McCandless*
+> Your very silence shows you agree.
+> — *Euripides*
 
-_Last updated: Sat Mar 21 00:52:59 UTC 2026_
+_Last updated: Sun Mar 22 00:59:43 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
