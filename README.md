@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.
-> — *Virginia Woolf*
+> The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!
+> — *Tony Robbins*
 
-_Last updated: Tue Mar 24 00:54:08 UTC 2026_
+_Last updated: Wed Mar 25 00:59:07 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
