@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> One day, in retrospect, the years of struggle will strike you as the most beautiful.
-> — *Sigmund Freud*
+> You can only be afraid of what you think you know.
+> — *Jiddu Krishnamurti*
 
-_Last updated: Sun Mar 29 01:06:41 UTC 2026_
+_Last updated: Mon Mar 30 01:07:21 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
