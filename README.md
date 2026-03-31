@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> You can only be afraid of what you think you know.
-> — *Jiddu Krishnamurti*
+> If you don't find the time, if you don't do the work, you don't get the results.
+> — *Arnold Schwarzenegger*
 
-_Last updated: Mon Mar 30 01:07:21 UTC 2026_
+_Last updated: Tue Mar 31 01:05:36 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
