@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> If you don't find the time, if you don't do the work, you don't get the results.
-> — *Arnold Schwarzenegger*
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
+> — *Bob Marley*
 
-_Last updated: Tue Mar 31 01:05:36 UTC 2026_
+_Last updated: Wed Apr  1 01:12:14 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
