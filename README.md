@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Life is much more successfully looked at from a single window.
-> — *F. Scott Fitzgerald*
+> Men trust their ears less than their eyes.
+> — *Herodotus*
 
-_Last updated: Fri Apr 24 01:15:02 UTC 2026_
+_Last updated: Sat Apr 25 01:08:11 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
