@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> There is nothing more truly artistic than to love people.
-> — *Vincent van Gogh*
+> For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.
+> — *Celestine Chua*
 
-_Last updated: Tue Apr 28 01:24:30 UTC 2026_
+_Last updated: Wed Apr 29 01:27:17 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
