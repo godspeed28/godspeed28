@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Your goals are the road maps that guide you and show you what is possible for your life.
-> — *Les Brown*
+> The degree of responsibility you take for your life determines how much change you can create in it.
+> — *Celestine Chua*
 
-_Last updated: Sat May  9 01:25:50 UTC 2026_
+_Last updated: Sun May 10 01:27:16 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
