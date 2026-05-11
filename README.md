@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The degree of responsibility you take for your life determines how much change you can create in it.
-> — *Celestine Chua*
+> We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.
+> — *Kamal Ravikant*
 
-_Last updated: Sun May 10 01:27:16 UTC 2026_
+_Last updated: Mon May 11 01:45:38 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
