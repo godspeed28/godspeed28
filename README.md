@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> None but ourselves can free our minds.
-> — *Bob Marley*
+> The most important battle is one to conquer yourself.
+> — *Yanni*
 
-_Last updated: Sat May 23 01:44:45 UTC 2026_
+_Last updated: Sun May 24 01:50:08 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
