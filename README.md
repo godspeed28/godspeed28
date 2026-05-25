@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The most important battle is one to conquer yourself.
-> — *Yanni*
+> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.
+> — *Robert Collier*
 
-_Last updated: Sun May 24 01:50:08 UTC 2026_
+_Last updated: Mon May 25 01:56:20 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
