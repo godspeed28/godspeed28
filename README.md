@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> A man who cannot tolerate small misfortunes can never accomplish great things.
-> — *Chinese Proverb*
+> The roots of education are bitter, but the fruit is sweet.
+> — *Aristotle*
 
-_Last updated: Wed May 27 01:56:20 UTC 2026_
+_Last updated: Thu May 28 01:28:30 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
