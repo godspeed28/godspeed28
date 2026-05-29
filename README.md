@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The roots of education are bitter, but the fruit is sweet.
-> — *Aristotle*
+> It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.
+> — *Roy T. Bennett*
 
-_Last updated: Thu May 28 01:28:30 UTC 2026_
+_Last updated: Fri May 29 01:49:49 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
