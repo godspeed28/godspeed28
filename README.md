@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.
-> — *Roy T. Bennett*
+> You don't have to control your thoughts; you just have to stop letting them control you.
+> — *Dan Millman*
 
-_Last updated: Fri May 29 01:49:49 UTC 2026_
+_Last updated: Sat May 30 01:46:08 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
