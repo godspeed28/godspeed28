@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> If you correct your mind, the rest of your life will fall into place.
-> — *Lao Tzu*
+> People are not disturbed by things, but by the views they take of them.
+> — *Epictetus*
 
-_Last updated: Mon Jun  8 02:06:51 UTC 2026_
+_Last updated: Tue Jun  9 01:45:05 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
