@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.
-> — *Richard Bach*
+> All you need is passion. If you have a passion for something, you'll create the talent.
+> — *Yanni*
 
-_Last updated: Wed Jun 10 01:55:37 UTC 2026_
+_Last updated: Thu Jun 11 02:06:59 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
