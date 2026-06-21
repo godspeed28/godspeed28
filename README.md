@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> The beautiful journey of today can only begin when we learn to let go of yesterday.
-> — *Steve Maraboli*
+> If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.
+> — *Mark Manson*
 
-_Last updated: Sat Jun 20 01:56:40 UTC 2026_
+_Last updated: Sun Jun 21 02:08:21 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
