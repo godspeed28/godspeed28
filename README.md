@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> A man that flies from his fear may find that he has only taken a short cut to meet it.
-> — *J.R.R. Tolkien*
+> If it entertains you now but will bore you someday, it's a distraction. Keep looking.
+> — *Naval Ravikant*
 
-_Last updated: Wed Jun 24 01:50:01 UTC 2026_
+_Last updated: Thu Jun 25 01:53:42 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
