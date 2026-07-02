@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> When the root is strong, the fruit is sweet.
-> — *Bob Marley*
+> Be approximately right rather than exactly wrong.
+> — *John Tukey*
 
-_Last updated: Wed Jul  1 01:59:54 UTC 2026_
+_Last updated: Thu Jul  2 01:53:37 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
