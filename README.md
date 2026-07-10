@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> No tree, it is said, can grow to heaven unless its roots reach down to hell.
-> — *Carl Jung*
+> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
+> — *Dogen*
 
-_Last updated: Thu Jul  9 01:22:48 UTC 2026_
+_Last updated: Fri Jul 10 01:19:58 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
