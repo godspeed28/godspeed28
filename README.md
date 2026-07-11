@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
-> — *Dogen*
+> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.
+> — *Sun Tzu*
 
-_Last updated: Fri Jul 10 01:19:58 UTC 2026_
+_Last updated: Sat Jul 11 01:13:28 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
