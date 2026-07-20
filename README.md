@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.
-> — *William James*
+> It isn't that they can't see the solution. It is that they can't see the problem.
+> — *Gilbert Chesterton*
 
-_Last updated: Sun Jul 19 01:13:07 UTC 2026_
+_Last updated: Mon Jul 20 02:56:13 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
