@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> I am thankful to all who said no to me. It is because of them that I'm doing it myself.
-> — *Albert Einstein*
+> Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.
+> — *John Eliot*
 
-_Last updated: Tue Aug 11 00:39:38 UTC 2026_
+_Last updated: Wed Aug 12 00:45:13 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
