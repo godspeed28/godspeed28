@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.
-> — *John Eliot*
+> Those who have subdued their ego understand that it doesn't degrade you when others treat you poorly; it degrades them.
+> — *Ryan Holiday*
 
-_Last updated: Wed Aug 12 00:45:13 UTC 2026_
+_Last updated: Thu Aug 13 00:47:30 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
