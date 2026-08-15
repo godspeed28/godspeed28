@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> I was angered, for I had no shoes. Then I met a man who had no feet.
-> — *Chinese Proverb*
+> What you resist, persists.
+> — *Carl Jung*
 
-_Last updated: Fri Aug 14 00:46:09 UTC 2026_
+_Last updated: Sat Aug 15 00:25:48 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
