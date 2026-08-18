@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> I didn't get there by wishing for it or hoping for it, but by working for it.
-> — *Estee Lauder*
+> The birth of the mind is the death of the senses.
+> — *Dan Millman*
 
-_Last updated: Mon Aug 17 00:24:22 UTC 2026_
+_Last updated: Tue Aug 18 00:24:21 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
