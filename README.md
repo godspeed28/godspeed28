@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> Heal the past, live the present, dream the future.
-> — *Mary Engelbreit*
+> He who wishes to be obeyed must know how to command.
+> — *Niccolo Machiavelli*
 
-_Last updated: Tue Sep  1 02:06:41 UTC 2026_
+_Last updated: Wed Sep  2 01:29:33 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
