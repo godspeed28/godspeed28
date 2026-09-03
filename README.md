@@ -24,10 +24,10 @@
 <hr>
 
 <!-- START_QUOTE -->
-> He who wishes to be obeyed must know how to command.
-> — *Niccolo Machiavelli*
+> Only the hand that erases can write the true thing.
+> — *Meister Eckhart*
 
-_Last updated: Wed Sep  2 01:29:33 UTC 2026_
+_Last updated: Thu Sep  3 01:33:23 UTC 2026_
 <!-- END_QUOTE -->
 
 <hr>
