@@ -17,10 +17,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=godspeed28&color=42b883&style=flat)
 
-<hr>
+<!-- <hr> -->
 <!-- [![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed) -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- START_QUOTE -->
 > To avoid criticism, do nothing, say nothing, and be nothing.
@@ -29,7 +29,7 @@
 _Last updated: Thu Sep 10 07:32:27 UTC 2026_
 <!-- END_QUOTE -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- React -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
@@ -50,7 +50,7 @@ _Last updated: Thu Sep 10 07:32:27 UTC 2026_
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=radical&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
 
 <!-- Merko -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=merko&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=merko&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
 
 <!-- Gruvbox -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=godspeed28&theme=gruvbox&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%" /> -->
