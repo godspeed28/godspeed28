@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> The degree of responsibility you take for your life determines how much change you can create in it.
-> — *Celestine Chua*
+> There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.
+> — *Morihei Ueshiba*
 
-_Last updated: Fri Sep 11 01:32:30 UTC 2026_
+_Last updated: Sat Sep 12 01:38:31 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
