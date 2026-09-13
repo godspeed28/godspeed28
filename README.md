@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.
-> — *Morihei Ueshiba*
+> Study logic and math, because once you've mastered them, you won't fear any book.
+> — *Naval Ravikant*
 
-_Last updated: Sat Sep 12 01:38:31 UTC 2026_
+_Last updated: Sun Sep 13 01:28:38 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
