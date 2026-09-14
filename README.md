@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Study logic and math, because once you've mastered them, you won't fear any book.
-> — *Naval Ravikant*
+> Given the choice between the experience of pain and nothing, I would choose pain.
+> — *William Faulkner*
 
-_Last updated: Sun Sep 13 01:28:38 UTC 2026_
+_Last updated: Mon Sep 14 01:46:55 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
