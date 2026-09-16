@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> There are two things a person should never be angry at, what they can help, and what they cannot.
-> — *Plato*
+> True ignorance is not the absence of knowledge, it's the refusal to acquire it.
+> — *Jeff Booth*
 
-_Last updated: Tue Sep 15 01:57:01 UTC 2026_
+_Last updated: Wed Sep 16 01:47:15 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
