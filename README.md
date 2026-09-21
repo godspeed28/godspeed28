@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> I can live without money, but I cannot live without love.
-> — *Judy Garland*
+> Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.
+> — *Bhagavad Gita*
 
-_Last updated: Sun Sep 20 01:45:12 UTC 2026_
+_Last updated: Mon Sep 21 01:46:12 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
