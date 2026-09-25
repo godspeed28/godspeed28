@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Silence is a source of great strength.
-> — *Lao Tzu*
+> The divine is not something high above us. It is in heaven, it is in earth, it is inside us.
+> — *Morihei Ueshiba*
 
-_Last updated: Thu Sep 24 01:42:09 UTC 2026_
+_Last updated: Fri Sep 25 01:59:18 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
