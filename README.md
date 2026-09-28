@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Words have no power to impress the mind without the exquisite horror of their reality.
-> — *Edgar Allan Poe*
+> No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.
+> — *Wayne Gretzky*
 
-_Last updated: Sun Sep 27 01:56:26 UTC 2026_
+_Last updated: Mon Sep 28 02:02:18 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
