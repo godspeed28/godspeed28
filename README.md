@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.
-> — *Wayne Gretzky*
+> Throughout this life, you can never be certain of living long enough to take another breath.
+> — *Zen Proverb*
 
-_Last updated: Mon Sep 28 02:02:18 UTC 2026_
+_Last updated: Tue Sep 29 02:48:39 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
