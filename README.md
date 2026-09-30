@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Throughout this life, you can never be certain of living long enough to take another breath.
-> — *Zen Proverb*
+> If you want something then you lose everything. If you don't want anything then you already have everything.
+> — *Seungsahn*
 
-_Last updated: Tue Sep 29 02:48:39 UTC 2026_
+_Last updated: Wed Sep 30 02:30:09 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
