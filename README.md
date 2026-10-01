@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> If you want something then you lose everything. If you don't want anything then you already have everything.
-> — *Seungsahn*
+> Life is a question and how we live it is our answer.
+> — *Gary Keller*
 
-_Last updated: Wed Sep 30 02:30:09 UTC 2026_
+_Last updated: Thu Oct  1 02:31:50 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
