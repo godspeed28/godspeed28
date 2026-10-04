@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Failure is the key to success; each mistake teaches us something.
-> — *Morihei Ueshiba*
+> The world doesn't always give you want, but it often gives you what you need.
+> — *Naval Ravikant*
 
-_Last updated: Sat Oct  3 02:24:46 UTC 2026_
+_Last updated: Sun Oct  4 02:53:56 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
