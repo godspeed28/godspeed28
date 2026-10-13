@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> It's the little things done consistently over time, straight from your heart, that have the greatest impact.
-> — *Unknown*
+> Those who seek the easy way do not seek the true way.
+> — *Dogen*
 
-_Last updated: Mon Oct 12 02:42:29 UTC 2026_
+_Last updated: Tue Oct 13 03:59:52 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
