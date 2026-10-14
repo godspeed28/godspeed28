@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Those who seek the easy way do not seek the true way.
-> — *Dogen*
+> Never waste a minute of your precious life thinking about people you don't like.
+> — *Celestine Chua*
 
-_Last updated: Tue Oct 13 03:59:52 UTC 2026_
+_Last updated: Wed Oct 14 02:13:53 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
