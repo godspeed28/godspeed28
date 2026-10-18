@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Peace is not the absence of conflict, but the ability to cope with it.
-> — *Unknown*
+> Lust, anger and greed are the three gates to self-destructive hell.
+> — *Bhagavad Gita*
 
-_Last updated: Sat Oct 17 01:39:50 UTC 2026_
+_Last updated: Sun Oct 18 01:35:45 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
