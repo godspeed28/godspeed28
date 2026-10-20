@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Only put off until tomorrow what you are willing to die having left undone.
-> — *Pablo Picasso*
+> It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.
+> — *Dale Carnegie*
 
-_Last updated: Mon Oct 19 01:53:27 UTC 2026_
+_Last updated: Tue Oct 20 02:11:30 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
