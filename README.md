@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> There is no fear for one whose mind is not filled with desires.
-> — *Buddha*
+> Life is from the inside out. When you shift on the inside, life shifts on the outside.
+> — *Kamal Ravikant*
 
-_Last updated: Sat Oct 31 02:48:49 UTC 2026_
+_Last updated: Sun Nov  1 02:41:13 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
