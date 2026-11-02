@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Life is from the inside out. When you shift on the inside, life shifts on the outside.
-> — *Kamal Ravikant*
+> Simple words, repeated daily, can change your life.
+> — *Maxime Lagace*
 
-_Last updated: Sun Nov  1 02:41:13 UTC 2026_
+_Last updated: Mon Nov  2 02:49:44 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
