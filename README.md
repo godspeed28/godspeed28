@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Learn from the mistakes of others. You can't live long enough to make them all yourself.
-> — *Eleanor Roosevelt*
+> It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.
+> — *Seneca*
 
-_Last updated: Sun Nov 15 03:14:36 UTC 2026_
+_Last updated: Mon Nov 16 03:16:50 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
