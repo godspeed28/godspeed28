@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> Only when the tide goes out do you discover who's been swimming naked.
-> — *Warren Buffett*
+> You can't get to a place that you don't believe exists.
+> — *Unknown*
 
-_Last updated: Fri Nov 20 04:26:53 UTC 2026_
+_Last updated: Sat Nov 21 04:20:26 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
