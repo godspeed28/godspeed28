@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> You can't get to a place that you don't believe exists.
-> — *Unknown*
+> The only person you should try to be better than is the person you were yesterday.
+> — *Brian Tracy*
 
-_Last updated: Sat Nov 21 04:20:26 UTC 2026_
+_Last updated: Sun Nov 22 03:34:25 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
