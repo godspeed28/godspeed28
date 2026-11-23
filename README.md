@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> The only person you should try to be better than is the person you were yesterday.
-> — *Brian Tracy*
+> The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.
+> — *Jim Rohn*
 
-_Last updated: Sun Nov 22 03:34:25 UTC 2026_
+_Last updated: Mon Nov 23 04:06:51 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
