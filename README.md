@@ -23,10 +23,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> What's happening is merely what's happening. How you feel about it is another matter.
-> — *Neale Donald Walsch*
+> Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.
+> — *James Allen*
 
-_Last updated: Wed Nov 25 05:43:21 UTC 2026_
+_Last updated: Thu Nov 26 05:32:35 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
