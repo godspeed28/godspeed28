@@ -29,10 +29,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> To be fully alive is to feel that everything is possible.
-> — *Eric Hoffer*
+> When you change what you believe, you change what you do.
+> — *Spencer Johnson*
 
-_Last updated: Fri Nov 27 15:14:44 UTC 2026_
+_Last updated: Fri Nov 27 16:58:10 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
