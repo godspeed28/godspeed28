@@ -20,6 +20,8 @@
 <!-- <hr> -->
 <!-- [![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed) -->
 
+![Spotify](https://spotify-widget-tau-one.vercel.app/now-playing)
+
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
