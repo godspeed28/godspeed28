@@ -17,8 +17,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=godspeed28&color=42b883&style=flat)
 
-<!-- <hr> -->
-<!-- [![Spotify](https://spotify-github-profile-gamma-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/godspeed) -->
+<hr>
+
+
 
 <!-- <hr> -->
 
