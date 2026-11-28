@@ -19,7 +19,7 @@
 
 <hr>
 
-[![Spotify](https://spotify-widget-tau-one.vercel.app/now-playing?lyrics=on)](https://spotify-widget-tau-one.vercel.app/track)
+[![Spotify](https://spotify-widget-tau-one.vercel.app/now-playing)](https://spotify-widget-tau-one.vercel.app/track)
 
 <!-- ?theme=light        tema terang (default: dark)
 ?accent=ff5500      paksa warna aksen (hex 6 digit, tanpa #)
