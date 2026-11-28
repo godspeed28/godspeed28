@@ -19,7 +19,19 @@
 
 <hr>
 
-[![Spotify](https://spotify-widget-tau-one.vercel.app/now-playing?lyrics=on)](https://spotify-widget-tau-one.vercel.app/track)
+ 
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://spotify-widget-tau-one.vercel.app/track">
+        <img src="https://spotify-widget-tau-one.vercel.app/now-playing?lyrics=on" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+<img src="https://github-act-graph.rodriaum.com/graph?username=godspeed28&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- ?theme=light        tema terang (default: dark)
 ?accent=ff5500      paksa warna aksen (hex 6 digit, tanpa #)
