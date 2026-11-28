@@ -29,10 +29,10 @@
 <!-- <hr> -->
 
 <!-- START_QUOTE -->
-> A bird does not sing because it has an answer. It sings because it has a song.
-> — *Chinese Proverb*
+> It is difficult to free fools from the chains they revere.
+> — *Voltaire*
 
-_Last updated: Sat Nov 28 05:02:24 UTC 2026_
+_Last updated: Sat Nov 28 05:21:19 UTC 2026_
 <!-- END_QUOTE -->
 
 <!-- <hr> -->
